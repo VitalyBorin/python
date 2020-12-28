@@ -1,2 +1,1 @@
-# python
-Знакомство с Python
+# GeekBrains
